@@ -8,7 +8,6 @@ import sys
 from dataclasses import dataclass
 from typing import Tuple, List, Set, Dict, Optional, Union, Generator
 import pycosat
-from pprint import pprint
 from collections import Counter
 
 
