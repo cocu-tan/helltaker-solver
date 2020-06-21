@@ -372,11 +372,7 @@ class CellState:
   is_wall: Variable
   is_goal: Variable
   is_lock: Variable
-  
-  
-  
-  
-  
+
   is_lock_next: Variable
 
   is_spike: Variable
