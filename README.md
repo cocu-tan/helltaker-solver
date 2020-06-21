@@ -9,7 +9,7 @@
 - CNF Converter
 
 ## Known Issue
-**Some rules are missing. The solver outputs invalid solution for some tricky stages other than in-game stages.**
+**Some rules are missing. This solver outputs invalid solutions for some tricky stages other than in-game stages.**
 
 
 ## How to use
