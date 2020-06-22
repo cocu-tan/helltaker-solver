@@ -11,6 +11,7 @@
 ## Known Issue
 **Some rules are missing. This solver outputs invalid solutions for some tricky stages other than in-game stages.**
 
+Let me know if you find missing rules. :)
 
 ## How to use
 - `pip install pycosat`
